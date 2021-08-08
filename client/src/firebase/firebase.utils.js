@@ -3,13 +3,12 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-  apiKey: 'AIzaSyCdHT-AYHXjF7wOrfAchX4PIm3cSj5tn14',
-  authDomain: 'crwn-db.firebaseapp.com',
-  databaseURL: 'https://crwn-db.firebaseio.com',
-  projectId: 'crwn-db',
-  storageBucket: 'crwn-db.appspot.com',
-  messagingSenderId: '850995411664',
-  appId: '1:850995411664:web:7ddc01d597846f65'
+  apiKey: "AIzaSyC-jQw-UapFVXACWwUN6nVi0kC7QNPNXLo",
+  authDomain: "lymalata-222313.firebaseapp.com",
+  projectId: "lymalata-222313",
+  storageBucket: "lymalata-222313.appspot.com",
+  messagingSenderId: "255173100652",
+  appId: "1:255173100652:web:4b89de0198e5751de3c449"
 };
 
 firebase.initializeApp(config);
